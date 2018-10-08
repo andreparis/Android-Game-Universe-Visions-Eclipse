@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/god"
+        android:title="@string/god"/>
+    <item android:id="@+id/space"
+        android:title="@string/space"/>
+    <item android:id="@+id/earth"
+        android:title="@string/earth"/>
+</menu>
